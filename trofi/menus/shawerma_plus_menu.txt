@@ -1,0 +1,732 @@
+{
+   "list":[
+      {
+         "public":{
+            "name":"Chicken Shawarma with Hummus",
+            "desc":"Nicely seasoned boneless chicken shawarma, hand sliced from a rotating spit and served on authentic homemade hummus",
+            "restaurant_id":"trofi-code",
+            "sales_price":12.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Rice",
+            "desc":" ",
+            "restaurant_id":"trofi-code",
+            "sales_price":4.99,
+            "tags":[
+               "vegetarian",
+               "gluten-free"
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Pickle Dish",
+            "desc":"pickled cucumbers and turnibs (if available)",
+            "restaurant_id":"trofi-code",
+            "sales_price":5.99,
+            "tags":[
+               "vegetarian",
+               "gluten-free"
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Fattoush Salad",
+            "desc":"Includes fried pita, tomatoes, lettuce, cucumbers, garlic, dressed with vinegar, pomegranate syrup and olive oil",
+            "restaurant_id":"trofi-code",
+            "sales_price":7.49,
+            "tags":[
+               "vegetarian"
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Arabic Salad",
+            "desc":"Tomatoes, cucumbers, lettuce, onions, dressed with lemon and olive oil",
+            "restaurant_id":"trofi-code",
+            "sales_price":6.99,
+            "tags":[
+               "vegetarian",
+               "gluten-free"
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Hummus with Olive Oil",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":6.99,
+            "tags":[
+               "vegetarian",
+               "gluten-free"
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"English Chicken Shawarma Saj Big wrap",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":14.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Jawad's Chicken Shawarma Saj Big wrap",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":14.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"SUB Chicken Shawarma Saj Big wrap",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":14.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Authentic Chicken Shawarma Saj Big wrap",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":14.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Shish Tawooq Chicken Wrap",
+            "desc":"Includes tomatoes, lettuce, onions, pickles, garlic sauce and hot sauce in the wrap",
+            "restaurant_id":"trofi-code",
+            "sales_price":11.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Lamb Kebab Wrap",
+            "desc":"Includes tomatoes, pickles, parsley, onions, tahini, garlic sauce, and hot sauce",
+            "restaurant_id":"trofi-code",
+            "sales_price":11.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Falafel Wrap",
+            "desc":"Includes tomatoes, pickles, cucumbers, parsley and tahini sauce",
+            "restaurant_id":"trofi-code",
+            "sales_price":9.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"English Chicken Shawarma Wrap",
+            "desc":"tomatoes, lettuce, onions, pickles, garlic sauce and hot sauce",
+            "restaurant_id":"trofi-code",
+            "sales_price":9.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Jawad's Chicken Shawarma Wrap",
+            "desc":"fries, pickles, garlic mayo & hot sauce",
+            "restaurant_id":"trofi-code",
+            "sales_price":9.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"SUB Chicken Shawarma Wrap",
+            "desc":"tomatoes, lettuce, & garlic mayo",
+            "restaurant_id":"trofi-code",
+            "sales_price":9.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Authentic Chicken Shawarma Wrap",
+            "desc":"fries, pickles, & garlic mayo",
+            "restaurant_id":"trofi-code",
+            "sales_price":9.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Falafel and Rice (On Rocks)",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":12.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Falafel Poutine",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":12.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Chicken Shawarma and Rice (On Rocks)",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":12.99,
+            "tags":[
+
+            ],
+            "toppings":[
+               "gluten-free"
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Large Chicken Shawerma Salad",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":17.99,
+            "tags":[
+
+            ],
+            "toppings":[
+               "Arabic",
+               "Fattoush",
+               "Veggies",
+               "Veggies Salad",
+               "Fattoush Salad",
+               "Veggies Fattoush"
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Grilled Shish Tawook Plate",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":17.99,
+            "tags":[
+               "gluten-free"
+            ],
+            "toppings":[
+               "rice",
+               "fries",
+               "vegetable",
+               "arabic salad",
+               "fattoush"
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Large Chicken Shawerma Poutine",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":12.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Grilled Kofta Plate",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":19.99,
+            "tags":[
+               "gluten-free"
+            ],
+            "toppings":[
+               "rice",
+               "fries",
+               "vegetable",
+               "arabic salad",
+               "fattoush"
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Lamb Cubes Grilled Plate",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":19.99,
+            "tags":[
+               "gluten-free"
+            ],
+            "toppings":[
+               "rice",
+               "fries",
+               "vegetable",
+               "arabic salad",
+               "fattoush"
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Mixed Grill Plate",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":24.99,
+            "tags":[
+               "gluten-free"
+            ],
+            "toppings":[
+               "rice",
+               "fries",
+               "vegetable",
+               "arabic salad",
+               "fattoush"
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Shawerma Chicken Plate",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":15.99,
+            "tags":[
+               "gluten-free"
+            ],
+            "toppings":[
+               "double rice",
+               "double fries",
+               "rice and fries",
+               "rice and fattoush",
+               "rice and veggies",
+               "rice and salad",
+               "fries and fattoush",
+               "fries and raw veggies",
+               "fries and salad"
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Falafel Dish",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":15.99,
+            "tags":[
+               "vegatarian"
+            ],
+            "toppings":[
+               "rice",
+               "fries",
+               "vegetable",
+               "arabic salad",
+               "fattoush"
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Pickles Dish",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":4.99,
+            "tags":[
+               "vegatarian",
+               "gluten-free"
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"French Fries",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":3.99,
+            "tags":[
+               "vegatarian"
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Baqlawah (4)",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":4.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Non Alcoholic Beer",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":3.29,
+            "tags":[
+
+            ],
+            "toppings":[
+               "apple",
+               "lemon",
+               "mango passion fruit",
+               "pineapple",
+               "peach",
+               "pomegranate",
+               "raspberry",
+               "strawberry"
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Bottle of Water",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":1.99,
+            "tags":[
+
+            ],
+            "toppings":[
+
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Soft Drink (Can)",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":1.99,
+            "tags":[
+
+            ],
+            "toppings":[
+               "Pepsi",
+               "Diet Pepsi",
+               "7up",
+               "Gingerale",
+               "Fanta",
+               "Dr.Pepper",
+               "Orange Crush",
+               "Cream Soda",
+               "Grape Crush",
+               "Root Beer",
+               "Ice Tea",
+               "Mountain Dew"
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      },
+      {
+         "public":{
+            "name":"Soft Drink (Bottle)",
+            "desc":"",
+            "restaurant_id":"trofi-code",
+            "sales_price":1.99,
+            "tags":[
+
+            ],
+            "toppings":[
+               "Pepsi",
+               "Diet Pepsi",
+               "7up",
+               "Gingerale",
+               "Dr.Pepper",
+               "Orange Crush",
+               "Root Beer",
+               "Ice Tea"
+            ]
+         },
+         "private":{
+            "credit_card_fee":0.01,
+            "ingredients_cost":0.01,
+            "profit_margin":0.01
+         }
+      }
+   ]
+}

@@ -1,0 +1,19 @@
+{
+    "list": [
+        {
+            "public": {
+                "name": "Test Food",
+                "desc": "Test Food desc",
+                "restaurant_id": "trofi-code",
+                "sales_price": 6.5,
+                "tags": [ "vegetarian" ],
+                "toppings": [ "one topping", "two topping"]
+            },
+            "private": {
+                "credit_card_fee": 1,
+                "ingredients_cost": 1,
+                "profit_margin": 1
+            }
+        }
+    ]
+}
